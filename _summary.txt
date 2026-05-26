@@ -1,0 +1,47 @@
+Glasshouse playlist slicer summary
+==================================================
+
+Source CSV rows read: 39268
+Unique releases seen: 1713
+Releases matched to a specific series: 995
+Releases captured only by catch-all: 718
+Total track slots filled across playlists: 42983
+  (a track can appear in multiple playlists in permissive mode)
+
+Per-playlist counts:
+     607  01_HedKandi_The_Mix
+     535  02_HedKandi_Beach_House
+     961  03_HedKandi_Disco_Heaven_and_Kandi
+     613  04_HedKandi_Nu_Cool_and_Chill
+     583  05_HedKandi_World_Series
+     271  06_HedKandi_Back_to_Love
+     101  07_HedKandi_A_Taste_Of_Kandi
+     161  08_HedKandi_Tropical_and_Deep
+     277  09_HedKandi_Classics_and_Anthems
+     661  10_HedKandi_Everything_Else
+    1622  11_MoS_The_Annual_1999_to_2005
+    1751  12_MoS_The_Annual_2006_to_2012
+     899  13_MoS_The_Annual_2013_and_after
+    2857  14_MoS_Sessions
+    2730  15_MoS_Clubbers_Guide
+    2340  16_MoS_Chillout_and_Chilled_House
+     848  17_MoS_Trance_Nation
+     714  18_MoS_The_Sound_Of
+     971  19_MoS_Bass_and_Bassline
+     456  20_MoS_Mash_Up_Mix
+    2267  21_MoS_Anthems
+    2175  22_MoS_Ibiza_and_Beach_Destinations
+     710  23_MoS_Running_Trax
+    1270  24_MoS_Old_Skool_and_Classics
+     207  25_MoS_Mashed
+     279  26_MoS_Masterpiece
+     299  27_MoS_Ritmo_De_Bacardi_and_Latin
+     668  28_MoS_Hard_Dance_and_Hardcore
+    1218  29_MoS_Club_Nation_and_Underground
+    1152  30_MoS_DnB_Dubstep_Garage
+     194  31_MoS_Uncovered
+     164  32_MoS_Loveparade
+    4401  33_MoS_Everything_Else_pre_2005
+    4551  34_MoS_Everything_Else_2006_to_2012
+    3470  35_MoS_Everything_Else_2013_and_after
+       0  36_MoS_Everything_Else_no_year

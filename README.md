@@ -1,6 +1,6 @@
 # Ultimate Chill Mix Compilations Catalog
 
-A community-built catalog of compilation tracklists from selected house music labels, derived from public Discogs metadata.
+A community-built catalog of compilation tracklists from selected house and electronic music labels, derived from public Discogs metadata.
 
 This is a fan project. No affiliation with any label or with Discogs.
 

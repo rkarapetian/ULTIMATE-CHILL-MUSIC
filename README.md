@@ -1,4 +1,4 @@
-# House Music Compilations Catalog
+# Ultimate Chill Mix Compilations Catalog
 
 A community-built catalog of compilation tracklists from selected house music labels, derived from public Discogs metadata.
 
